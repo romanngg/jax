@@ -339,6 +339,7 @@ from jax._src.lax.parallel import (
   pswapaxes,
 )
 from jax._src.lax.other import (
+  conv_general_dilated_local,
   conv_general_dilated_patches
 )
 
